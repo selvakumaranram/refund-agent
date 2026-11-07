@@ -1,0 +1,8 @@
+[
+  { "order_id": "1001", "customer_id": "C001", "item": "Cotton T-shirt",        "category": "apparel",     "price": 799,   "status": "delivered", "delivered_days_ago": 10 },
+  { "order_id": "1002", "customer_id": "C001", "item": "Wireless headphones",   "category": "electronics", "price": 2499,  "status": "delivered", "delivered_days_ago": 40 },
+  { "order_id": "1003", "customer_id": "C001", "item": "ShopKart gift card",    "category": "gift_card",   "price": 1000,  "status": "delivered", "delivered_days_ago": 2 },
+  { "order_id": "1004", "customer_id": "C001", "item": "Smartphone",            "category": "electronics", "price": 45000, "status": "delivered", "delivered_days_ago": 5 },
+  { "order_id": "1005", "customer_id": "C001", "item": "Running shoes",         "category": "apparel",     "price": 1899,  "status": "shipped",   "delivered_days_ago": null },
+  { "order_id": "2001", "customer_id": "C002", "item": "Silk saree",            "category": "apparel",     "price": 3200,  "status": "delivered", "delivered_days_ago": 3 }
+]

@@ -1,0 +1,11 @@
+{
+  "_note": "Structured version of refund-policy.pdf. A person checks this file whenever the PDF changes. CODE applies these rules, not the AI.",
+  "currency": "INR",
+  "human_review_above": 2000,
+  "categories": {
+    "apparel":     { "refundable": true,  "window_days": 30, "refund_percent": 100 },
+    "electronics": { "refundable": true,  "window_days": 30, "refund_percent": 100 },
+    "gift_card":   { "refundable": false, "reason": "Gift cards cannot be refunded (policy section 3)." }
+  },
+  "default": { "refundable": false, "reason": "This product category is not covered by the refund policy." }
+}
